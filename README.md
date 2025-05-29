@@ -1,4 +1,8 @@
-# Project Revival AI
+# Project Revival AI 
+# DEPLOYMENT 
+You can View the Live demo project click below link :
+
+https://frabjous-youtiao-f781bd.netlify.app/
 
 Project Revival AI is a web platform designed to help students revive their abandoned coding projects. It uses AI to analyze code and provide actionable insights and recommendations to complete stalled projects.
 
