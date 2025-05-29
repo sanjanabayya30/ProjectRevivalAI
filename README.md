@@ -1,5 +1,5 @@
-# Project Revival AI 
-# DEPLOYMENT 
+# PROJECT REVIVAL AI
+# Deployment
 You can View the Live demo project click below link :
 
 https://frabjous-youtiao-f781bd.netlify.app/
